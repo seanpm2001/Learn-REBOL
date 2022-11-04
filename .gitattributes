@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# REBOL source file
+*.r linguist-detectable=true
+*.r linguist-documentation=false
+*.r linguist-language=Rebol
+*.reb linguist-detectable=true
+*.reb linguist-documentation=false
+*.reb linguist-language=Rebol
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +171,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, November 4th at 3:58 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
